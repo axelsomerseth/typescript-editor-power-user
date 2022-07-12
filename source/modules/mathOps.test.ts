@@ -1,4 +1,4 @@
-import { divide, multiply, substract, sum } from "./index";
+import { divide, multiply, substract, sum } from "./mathOps";
 
 describe("math operations functions", () => {
   test("should sum", () => {

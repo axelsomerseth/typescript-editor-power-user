@@ -1,4 +1,4 @@
-import { sum, substract, multiply, divide } from "./modules/index";
+import { sum, substract, multiply, divide } from "./modules/mathOps";
 
 console.log("4 + 4 = ", sum(4, 4));
 console.log("4 - 2 = ", substract(4, 2));
